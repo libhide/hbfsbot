@@ -2,7 +2,7 @@
 
 // DEBUG VARIABLE
 const debug = false;
-const tweetInterval = 21600 * 1000;
+const tweetInterval = 3600 * 1000;
 // const tweetInterval = 5 * 1000;
 
 require('dotenv').config()
