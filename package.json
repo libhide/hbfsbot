@@ -1,0 +1,21 @@
+{
+  "name": "hbfs",
+  "version": "1.0.0",
+  "description": "Twitter bot that tweets lyrics from the hit track Harder, Better, Faster, Stronger by Daft Punk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ratik Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "fs-promise": "^2.0.3",
+    "twit": "^2.2.9"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "fs-promise": "^2.0.3",
+    "twit": "^2.2.9"
+  }
+}
